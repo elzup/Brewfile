@@ -11,4 +11,7 @@ $ curl -sL https://raw.githubusercontent.com/elzup/Brewfile/master/install.sh | 
 
 ## Backup Schedule
 
-Everyday 14:00
+Everyday 06:00
+
+## Thanks
+https://github.com/munisystem/Brewfile

@@ -70,6 +70,7 @@ brew "lv"
 brew "python3"
 brew "macvim", args: ["with-lua", "with-python3"]
 brew "mercurial"
+brew "minicom"
 brew "mysql"
 brew "nginx"
 brew "nkf"

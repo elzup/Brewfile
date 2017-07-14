@@ -85,6 +85,7 @@ brew "packer"
 brew "pacvim"
 brew "peco"
 brew "phantomjs"
+brew "pngcheck"
 brew "postgresql", restart_service: true
 brew "pwgen"
 brew "pyenv"

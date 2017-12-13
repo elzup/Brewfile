@@ -48,7 +48,7 @@ brew "exiftool"
 brew "git"
 brew "ffmpeg"
 brew "figlet"
-brew "flow"
+brew "flow", link: false
 brew "pkg-config"
 brew "gobject-introspection"
 brew "harfbuzz"

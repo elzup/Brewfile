@@ -1,3 +1,4 @@
+tap "heroku/brew"
 tap "railwaycat/emacsmacport"
 tap "homebrew/dupes"
 tap "homebrew/science"

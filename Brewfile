@@ -66,7 +66,6 @@ brew "hashpump"
 brew "haskell-stack"
 brew "hub"
 brew "ilmbase"
-brew "imagemagick", link: false
 brew "imagemagick@6"
 brew "imagesnap"
 brew "jpeg-turbo"

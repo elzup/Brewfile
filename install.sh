@@ -8,7 +8,7 @@ setup(){
   launchd=$HOME/Library/LaunchAgents
 
   if [ ! -d "$Brewfile" ]; then
-      git clone https://github.com/hiro/Brewfile "$Brewfile"
+      git clone https://github.com/elzup/Brewfile "$Brewfile"
   fi
 
   if [ ! -d "$launchd" ]; then

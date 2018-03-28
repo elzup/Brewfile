@@ -24,4 +24,4 @@ Everyday 06:00
 
 ## Thanks
 
-https://github.com/munisystem/Brewfile
+:rocket: https://github.com/munisystem/Brewfile :rocket:

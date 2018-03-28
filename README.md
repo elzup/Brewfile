@@ -1,5 +1,4 @@
-Brewfile
-=====
+# Brewfile
 
 Auto backup Brewfile by launchd.
 
@@ -9,9 +8,20 @@ Auto backup Brewfile by launchd.
 $ curl -sL https://raw.githubusercontent.com/elzup/Brewfile/master/install.sh | sh
 ```
 
+## Restore
+
+```sh
+# Brewfile
+brew bundle
+
+# npm global
+xargs npm install --global < ./npm-global-list
+```
+
 ## Backup Schedule
 
 Everyday 06:00
 
 ## Thanks
+
 https://github.com/munisystem/Brewfile

@@ -14,6 +14,7 @@ compep
 create-next-app
 create-react-app
 detect-port
+elzup
 eslint-config-precure
 eslint-config-react-app
 
@@ -43,6 +44,7 @@ github-kusa
 gulp-cli
 hpm-cli
 http-server
+hyper
 icon-gen
 irasutoya
 is-github-down

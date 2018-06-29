@@ -1,5 +1,6 @@
 generator-nm
 core
+generator-nm
 alfred-material-manager
 all-contributors-cli
 annict
@@ -103,6 +104,7 @@ up
 update
 wscat
 xo
+y
 yarn
 yarn-completions
 yo

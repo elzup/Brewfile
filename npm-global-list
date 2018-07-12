@@ -12,6 +12,7 @@ babel-cli
 
 base65536
 bower
+carbon-now-cli
 chokidar-cli
 cli
 compep
@@ -19,8 +20,10 @@ create-next-app
 create-react-app
 detect-port
 elzup
+eslint
 eslint-config-precure
 eslint-config-react-app
+eslint-config-xo
 
 
 eslint-plugin-jsx-a11y
@@ -43,8 +46,8 @@ generator-react-native-ignite
 generator-react-webpack
 generator-rest
 generator-webapp
-
 github-kusa
+global
 gulp-cli
 hpm-cli
 http-server

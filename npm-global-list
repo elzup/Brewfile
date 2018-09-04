@@ -24,7 +24,6 @@ elzup
 eslint
 eslint-config-precure
 eslint-config-react-app
-eslint-config-xo
 
 
 eslint-plugin-jsx-a11y
@@ -76,6 +75,7 @@ npm-install-missing
 plop
 poi
 pomodoron
+prettier
 puppeteer
 pure
 pure-prompt

@@ -60,6 +60,7 @@ jscodeshift
 live-server
 mocha
 moment-cli
+my-local-ip
 n
 naroujs
 nativefier

@@ -74,6 +74,8 @@ now-serve
 npm-check
 npm-check-updates
 npm-install-missing
+phantom
+phantomjs
 plop
 poi
 pomodoron

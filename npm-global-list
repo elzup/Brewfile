@@ -53,6 +53,7 @@ hpm-cli
 http-server
 hyper
 icon-gen
+iocat
 irasutoya
 is-github-down
 jest
@@ -92,6 +93,7 @@ react-native-ignite
 redux-cli
 restart-touchbar
 rnpm
+socket.io-client
 speed-test
 sw-precache
 textlint

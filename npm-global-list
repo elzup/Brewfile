@@ -59,6 +59,7 @@ is-github-down
 jest
 jscodeshift
 live-server
+markdown-pdf
 mocha
 moment-cli
 my-local-ip

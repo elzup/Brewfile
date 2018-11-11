@@ -21,7 +21,7 @@ create-next-app
 create-react-app
 detect-port
 elzup
-
+eslint
 eslint-config-precure
 eslint-config-react-app
 

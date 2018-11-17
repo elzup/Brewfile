@@ -68,6 +68,7 @@ naroujs
 nativefier
 netlify-cli
 next
+ngrok
 node-gyp
 node-pre-gyp
 nodemon

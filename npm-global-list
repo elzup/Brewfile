@@ -46,6 +46,8 @@ generator-react-native-ignite
 generator-react-webpack
 generator-rest
 generator-webapp
+gitbook
+gitbook-cli
 github-kusa
 global
 gulp-cli

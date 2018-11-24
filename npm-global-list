@@ -95,8 +95,10 @@ react-native-cli
 react-native-git-upgrade
 react-native-ignite
 redux-cli
+renamer
 restart-touchbar
 rnpm
+serve
 socket.io-client
 speed-test
 sw-precache

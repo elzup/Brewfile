@@ -76,7 +76,7 @@ brew "libevent"
 brew "libidn"
 brew "lua"
 brew "lv"
-brew "macvim", link: false
+brew "macvim"
 brew "mercurial"
 brew "minicom"
 brew "mosquitto"
@@ -91,7 +91,7 @@ brew "pacvim"
 brew "peco"
 brew "pkg-config"
 brew "pngcheck"
-brew "postgresql", restart_service: true, link: false
+brew "postgresql", restart_service: true
 brew "protobuf"
 brew "pwgen"
 brew "pyenv"

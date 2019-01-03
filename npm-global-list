@@ -1,5 +1,6 @@
 generator-nm
 core
+preset-es2015
 generator-nm
 cli
 alfred-material-manager
@@ -11,6 +12,7 @@ awm
 babel-add-flow-comments
 babel-cli
 
+babel-preset-es2015
 base65536
 bower
 carbon-now-cli
@@ -36,6 +38,7 @@ fkill-cli
 flow
 flow-bin
 flow-remove-types
+flow-to-typescript
 flow-typed
 generator-babel
 generator-babel-boilerplate

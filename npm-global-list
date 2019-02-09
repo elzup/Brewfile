@@ -54,6 +54,7 @@ gitbook-cli
 github-kusa
 global
 gulp-cli
+hexo-cli
 hpm-cli
 http-server
 hyper

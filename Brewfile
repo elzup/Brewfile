@@ -9,8 +9,6 @@ tap "homebrew/php"
 tap "homebrew/services"
 tap "railwaycat/emacsmacport"
 tap "sanemat/font"
-cask "java"
-cask "xquartz"
 brew "libyaml"
 brew "openssl"
 brew "xz"
@@ -36,6 +34,7 @@ brew "cscope"
 brew "ctags", link: false
 brew "curl"
 brew "direnv"
+brew "docker"
 brew "e2fsprogs"
 brew "envchain"
 brew "jpeg"
@@ -67,6 +66,7 @@ brew "ilmbase"
 brew "imagemagick"
 brew "imagemagick@6"
 brew "imagesnap"
+brew "iproute2mac"
 brew "jpeg-turbo"
 brew "jpegoptim"
 brew "oniguruma"
@@ -79,7 +79,8 @@ brew "libusb"
 brew "libusb-compat"
 brew "lua"
 brew "lv"
-brew "macvim"
+brew "macvim", args: ["with-lua"]
+brew "mas"
 brew "mercurial"
 brew "minicom"
 brew "mosquitto"
@@ -94,6 +95,7 @@ brew "pacvim"
 brew "peco"
 brew "pkg-config"
 brew "pngcheck"
+brew "portaudio"
 brew "postgresql", restart_service: true
 brew "postgresql@10"
 brew "protobuf"
@@ -112,6 +114,7 @@ brew "sl"
 brew "socat"
 brew "source-highlight"
 brew "swiftlint"
+brew "telnet"
 brew "terminal-notifier"
 brew "tesseract"
 brew "tig"
@@ -153,6 +156,7 @@ cask "hyperswitch"
 cask "insomnia"
 cask "intellij-idea"
 cask "iterm2"
+cask "java"
 cask "kap"
 cask "keyboard-cleaner"
 cask "keycastr"
@@ -170,3 +174,20 @@ cask "teamsql"
 cask "vagrant"
 cask "visual-studio-code"
 cask "webstorm"
+cask "xquartz"
+mas "Bandwidth+", id: 490461369
+mas "Display Menu", id: 549083868
+mas "Evernote", id: 406056744
+mas "GarageBand", id: 682658836
+mas "GrandPerspective", id: 1111570163
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "LINE", id: 539883307
+mas "MindNode", id: 1289197285
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Shazam", id: 897118787
+mas "Sim Daltonism", id: 693112260
+mas "TEPRA SMA3", id: 704088911
+mas "Tomato One", id: 907364780
+mas "Xcode", id: 497799835

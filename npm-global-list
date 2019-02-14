@@ -1,4 +1,3 @@
-generator-nm
 core
 preset-es2015
 generator-nm
@@ -6,7 +5,6 @@ cli
 alfred-material-manager
 all-contributors-cli
 annict
-ava
 awesome-lint
 awm
 babel-add-flow-comments
@@ -14,10 +12,10 @@ babel-cli
 
 babel-preset-es2015
 base65536
-bower
 carbon-now-cli
 chokidar-cli
 cli
+codecrad
 compep
 create-next-app
 create-react-app
@@ -47,7 +45,6 @@ generator-nm
 generator-node
 generator-react-native-ignite
 generator-react-webpack
-generator-rest
 generator-webapp
 gitbook
 gitbook-cli
@@ -63,7 +60,6 @@ iocat
 irasutoya
 is-github-down
 jest
-jscodeshift
 live-server
 markdown-pdf
 mocha
@@ -80,6 +76,7 @@ node-pre-gyp
 nodemon
 now
 now-serve
+np
 npm-check
 npm-check-updates
 npm-install-missing
@@ -90,6 +87,7 @@ png-to-ico
 poi
 pomodoron
 prettier
+puppeteer
 pure
 pure-prompt
 rails-dashboard
@@ -125,7 +123,6 @@ typings
 update
 version-print
 wscat
-xo
 y
 yarn
 yarn-completions

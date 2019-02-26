@@ -181,7 +181,6 @@ mas "iMovie", id: 408981434
 mas "iPic", id: 1101244278
 mas "Keynote", id: 409183694
 mas "LINE", id: 539883307
-mas "MindNode", id: 1289197285
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Shazam", id: 897118787

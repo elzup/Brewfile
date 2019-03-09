@@ -103,6 +103,7 @@ renamer
 restart-touchbar
 rnpm
 serve
+serverless
 socket.io-client
 speed-test
 sw-precache

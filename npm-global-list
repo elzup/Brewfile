@@ -111,6 +111,7 @@ textlint
 textlint-rule-no-todo
 textlint-rule-preset-ja-technical-writing
 textlint-rule-preset-japanese
+textlint-rule-prh
 textlint-rule-spellcheck-tech-word
 tiny-care-terminal
 to

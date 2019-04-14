@@ -1,3 +1,4 @@
+tap "cloudfoundry/tap"
 tap "fumiyas/echo-sd"
 tap "go-delve/delve"
 tap "heroku/brew"
@@ -130,6 +131,7 @@ brew "yarn", link: false
 brew "zlib"
 brew "zplug", link: false
 brew "zsh"
+brew "cloudfoundry/tap/cf-cli"
 brew "fumiyas/echo-sd/echo-sd"
 brew "heroku/brew/heroku"
 brew "jlhonora/lsusb/lsusb"

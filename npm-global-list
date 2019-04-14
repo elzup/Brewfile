@@ -24,10 +24,12 @@ detect-port
 elzup
 eslint
 eslint-config-precure
+eslint-config-prettier
 eslint-config-react-app
 
 
 
+eslint-plugin-prettier
 
 express-generator
 faker
@@ -42,6 +44,7 @@ flow-typed
 generator-babel
 generator-babel-boilerplate
 generator-es6-node
+generator-hubot
 generator-nm
 generator-node
 generator-react-native-ignite
@@ -88,6 +91,7 @@ png-to-ico
 poi
 pomodoron
 prettier
+prioritize-yarn
 puppeteer
 pure
 pure-prompt

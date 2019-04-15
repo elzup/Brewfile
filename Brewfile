@@ -81,6 +81,7 @@ brew "lha"
 brew "libidn"
 brew "lua"
 brew "lv"
+brew "lynx"
 brew "macvim", args: ["with-lua"]
 brew "mas"
 brew "mercurial"

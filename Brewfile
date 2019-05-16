@@ -1,3 +1,4 @@
+tap "cj-bc/cj-bc"
 tap "cloudfoundry/tap"
 tap "fumiyas/echo-sd"
 tap "go-delve/delve"
@@ -12,6 +13,7 @@ tap "railwaycat/emacsmacport"
 tap "sanemat/font"
 brew "libyaml"
 brew "openssl"
+brew "readline", link: true
 brew "xz"
 brew "ansible"
 brew "arp-scan"

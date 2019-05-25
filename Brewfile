@@ -104,6 +104,7 @@ brew "pngcheck"
 brew "portaudio"
 brew "postgresql", restart_service: true
 brew "protobuf"
+brew "pup"
 brew "pwgen"
 brew "pyenv"
 brew "pyenv-virtualenv"

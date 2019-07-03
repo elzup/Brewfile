@@ -66,6 +66,7 @@ iocat
 irasutoya
 is-github-down
 jest
+license-checker
 live-server
 markdown-pdf
 mocha
@@ -86,6 +87,7 @@ np
 npm-check
 npm-check-updates
 npm-install-missing
+npm-license-crawler
 phantom
 phantomjs
 plop

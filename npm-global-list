@@ -24,6 +24,7 @@ create-next-app
 create-react-app
 detect-port
 elzup
+elzup-sandbox
 eslint
 eslint-config-precure
 eslint-config-prettier
@@ -90,6 +91,7 @@ npm-check
 npm-check-updates
 npm-install-missing
 npm-license-crawler
+pastel-app
 phantom
 phantomjs
 plop

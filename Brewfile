@@ -87,7 +87,7 @@ brew "libidn"
 brew "lua"
 brew "lv"
 brew "lynx"
-brew "macvim", args: ["with-lua"]
+brew "macvim", args: ["with-lua"], link: false
 brew "mas"
 brew "mercurial"
 brew "minicom"
@@ -131,7 +131,7 @@ brew "tig"
 brew "tmux"
 brew "tofrodos"
 brew "tree"
-brew "vim", args: ["with-lua"]
+brew "vim"
 brew "w3m"
 brew "watch"
 brew "watchman"

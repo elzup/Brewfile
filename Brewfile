@@ -138,6 +138,7 @@ brew "w3m"
 brew "watch"
 brew "watchman"
 brew "wget"
+brew "wine"
 brew "yarn", link: false
 brew "zlib"
 brew "zplug", link: false

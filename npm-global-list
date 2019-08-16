@@ -7,6 +7,7 @@ cli
 alfred-material-manager
 all-contributors-cli
 annict
+asar
 atcoder-cli
 awesome-lint
 awm
@@ -24,6 +25,8 @@ compep
 create-next-app
 create-react-app
 detect-port
+electron-packager
+electron-zip-packager
 elzup
 elzup-sandbox
 eslint

@@ -110,6 +110,7 @@ brew "peco"
 brew "pngcheck"
 brew "portaudio"
 brew "postgresql", restart_service: true
+brew "postgresql@10"
 brew "protobuf"
 brew "pup"
 brew "pwgen"

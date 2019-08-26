@@ -107,6 +107,7 @@ brew "opencv"
 brew "packer"
 brew "pacvim"
 brew "peco"
+brew "pipenv"
 brew "pngcheck"
 brew "portaudio"
 brew "postgresql", restart_service: true

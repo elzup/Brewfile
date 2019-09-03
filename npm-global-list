@@ -34,7 +34,7 @@ eslint-config-precure
 eslint-config-prettier
 eslint-config-react-app
 
-
+eslint-plugin-import
 
 eslint-plugin-prettier
 

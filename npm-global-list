@@ -25,6 +25,7 @@ codecrad
 compep
 create-next-app
 create-react-app
+depcheck
 detect-port
 electron-packager
 electron-zip-packager

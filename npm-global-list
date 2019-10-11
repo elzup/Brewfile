@@ -1,4 +1,4 @@
-core
+
 preset-es2015
 generator-nm
 clasp
@@ -13,7 +13,6 @@ awesome-lint
 awm
 babel-add-flow-comments
 babel-cli
-
 babel-preset-es2015
 base65536
 carbon-now-cli
@@ -31,15 +30,9 @@ electron-packager
 electron-zip-packager
 elzup
 elzup-sandbox
-eslint
-eslint-config-precure
-eslint-config-prettier
-eslint-config-react-app
 
 eslint-plugin-import
-
 eslint-plugin-prettier
-
 express-generator
 faker
 firebase-tools
@@ -63,7 +56,6 @@ generator-webapp
 gitbook
 gitbook-cli
 github-kusa
-global
 gtop
 gulp-cli
 hexo-cli
@@ -105,9 +97,7 @@ plop
 png-to-ico
 poi
 pomodoron
-prettier
 prioritize-yarn
-puppeteer
 pure
 pure-prompt
 rails-dashboard
@@ -131,7 +121,6 @@ textlint
 textlint-rule-no-todo
 textlint-rule-preset-ja-technical-writing
 textlint-rule-preset-japanese
-textlint-rule-prh
 textlint-rule-spellcheck-tech-word
 tiny-care-terminal
 to
@@ -141,12 +130,10 @@ ts-babel-node
 ts-loader
 ts-node
 tslint
-typescript
 typings
 update
 version-print
 wscat
 y
-yarn
 yarn-completions
 yo

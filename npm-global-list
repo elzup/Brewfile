@@ -30,6 +30,7 @@ electron-packager
 electron-zip-packager
 elzup
 elzup-sandbox
+envinfo
 
 eslint-plugin-import
 eslint-plugin-prettier

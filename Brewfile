@@ -1,3 +1,4 @@
+tap "caskroom/cask"
 tap "cj-bc/cj-bc"
 tap "cloudfoundry/tap"
 tap "fumiyas/echo-sd"

@@ -92,6 +92,7 @@ npm-check
 npm-check-updates
 npm-install-missing
 npm-license-crawler
+parcel-bundler
 pastel-app
 phantom
 phantomjs

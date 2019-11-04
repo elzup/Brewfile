@@ -46,6 +46,7 @@ flow-remove-types
 flow-to-typescript
 flow-typed
 fusuma
+gatsby-cli
 generator-babel
 generator-babel-boilerplate
 generator-es6-node

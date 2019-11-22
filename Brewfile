@@ -13,7 +13,6 @@ tap "jlhonora/lsusb"
 tap "railwaycat/emacsmacport"
 tap "sanemat/font"
 brew "libyaml"
-brew "openssl"
 brew "readline", link: true
 brew "xz"
 brew "ansible"
@@ -31,9 +30,12 @@ brew "boost"
 brew "ghc"
 brew "cabal-install"
 brew "libpng"
+brew "glib"
+brew "openssl"
 brew "pixman"
-brew "chromedriver"
 brew "cmake"
+brew "openblas"
+brew "chromedriver"
 brew "composer"
 brew "coreutils"
 brew "cowsay"
@@ -51,6 +53,7 @@ brew "erlang"
 brew "exiftool"
 brew "fd"
 brew "libevent"
+brew "gnutls"
 brew "tesseract"
 brew "ffmpeg"
 brew "figlet"
@@ -70,12 +73,14 @@ brew "git-lfs"
 brew "glslang"
 brew "go"
 brew "pkg-config"
+brew "gobject-introspection"
 brew "graphviz"
 brew "guetzli"
 brew "hashpump"
 brew "haskell-stack"
 brew "hub"
 brew "ilmbase"
+brew "openexr"
 brew "imagemagick"
 brew "imagemagick@6"
 brew "imagesnap"
@@ -88,23 +93,24 @@ brew "kotlin"
 brew "leiningen"
 brew "lha"
 brew "libidn"
+brew "libwebsockets"
+brew "libxmlsec1"
 brew "lua"
 brew "lv"
 brew "lynx"
-brew "macvim", args: ["with-lua"], link: false
+brew "ruby"
+brew "macvim", link: false
 brew "mas"
 brew "mercurial"
 brew "minicom"
 brew "mosquitto"
-brew "mysql"
+brew "mysql", link: false
 brew "nginx"
 brew "nkf"
 brew "nmap"
 brew "node", link: false
-brew "openblas"
 brew "numpy"
 brew "oath-toolkit"
-brew "openexr"
 brew "opencv"
 brew "packer"
 brew "pacvim"
@@ -203,8 +209,11 @@ mas "Evernote", id: 406056744
 mas "GarageBand", id: 682658836
 mas "GrandPerspective", id: 1111570163
 mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
 mas "LINE", id: 539883307
 mas "MindNode", id: 1289197285
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
 mas "ScanSnap Cloud", id: 1035516352
 mas "Shazam", id: 897118787
 mas "Sim Daltonism", id: 693112260

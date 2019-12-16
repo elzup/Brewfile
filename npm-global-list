@@ -45,6 +45,7 @@ flow-remove-types
 flow-to-typescript
 flow-typed
 fusuma
+fx
 gatsby-cli
 generator-babel
 generator-babel-boilerplate

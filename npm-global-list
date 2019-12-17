@@ -31,7 +31,7 @@ electron-packager
 electron-zip-packager
 elzup
 elzup-sandbox
-
+eslint
 eslint-plugin-import
 eslint-plugin-prettier
 express-generator

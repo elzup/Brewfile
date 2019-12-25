@@ -121,6 +121,7 @@ rnpm
 serve
 serverless
 socket.io-client
+source-map-explorer
 speed-test
 sw-precache
 textlint

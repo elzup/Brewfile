@@ -116,6 +116,7 @@ brew "pacvim"
 brew "peco"
 brew "pipenv"
 brew "pngcheck"
+brew "pngquant"
 brew "portaudio"
 brew "postgresql", restart_service: true
 brew "postgresql@10"

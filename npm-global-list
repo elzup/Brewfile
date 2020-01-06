@@ -49,6 +49,7 @@ fx
 gatsby-cli
 generator-babel
 generator-babel-boilerplate
+generator-code
 generator-es6-node
 generator-hubot
 generator-nm

@@ -31,7 +31,6 @@ electron-packager
 electron-zip-packager
 elzup
 elzup-sandbox
-eslint
 eslint-plugin-import
 eslint-plugin-prettier
 express-generator
@@ -103,6 +102,8 @@ plop
 png-to-ico
 poi
 pomodoron
+prettier
+prh
 prioritize-yarn
 puppeteer
 pure
@@ -143,5 +144,6 @@ update
 version-print
 wscat
 y
+yarn
 yarn-completions
 yo

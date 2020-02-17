@@ -105,6 +105,7 @@ pomodoron
 prettier
 prh
 prioritize-yarn
+public-ip-cli
 puppeteer
 pure
 pure-prompt
@@ -125,6 +126,7 @@ serverless
 socket.io-client
 source-map-explorer
 speed-test
+superstatic
 sw-precache
 textlint
 textlint-rule-no-todo

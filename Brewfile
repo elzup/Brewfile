@@ -213,14 +213,17 @@ cask "vagrant"
 cask "visual-studio-code"
 cask "webstorm"
 cask "xquartz"
+mas "Audio Record - Audio Recorder1", id: 987725641
 mas "Bandwidth+", id: 490461369
 mas "Cyberduck", id: 409222199
 mas "Display Menu", id: 549083868
+mas "Dropzone 4", id: 1485052491
 mas "Evernote", id: 406056744
 mas "GarageBand", id: 682658836
 mas "GrandPerspective", id: 1111570163
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
+mas "LadioCast", id: 411213048
 mas "LINE", id: 539883307
 mas "MindNode", id: 1289197285
 mas "Numbers", id: 409203825

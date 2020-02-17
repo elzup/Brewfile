@@ -6,6 +6,7 @@ set -u
 repository=$HOME/Brewfile
 
 cd "$repository"
+rm Brewfile
 /usr/local/bin/brew bundle dump -f
 /usr/local/bin/npm list --global --parseable --depth=0 | sed '1d' | awk '{gsub(/\/.*\//,"",$1); print}' > npm-global-list
 /usr/bin/git add .

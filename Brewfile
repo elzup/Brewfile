@@ -225,6 +225,7 @@ mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "LadioCast", id: 411213048
 mas "LINE", id: 539883307
+mas "Microsoft Remote Desktop", id: 1295203466
 mas "MindNode", id: 1289197285
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541

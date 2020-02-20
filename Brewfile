@@ -224,6 +224,7 @@ mas "GrandPerspective", id: 1111570163
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "LadioCast", id: 411213048
+mas "LanScan", id: 472226235
 mas "LINE", id: 539883307
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "MindNode", id: 1289197285

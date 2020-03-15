@@ -54,6 +54,7 @@ generator-es6-node
 generator-hubot
 generator-nm
 generator-node
+generator-node-typescript
 generator-react-native-ignite
 generator-react-webpack
 generator-webapp

@@ -16,6 +16,7 @@ tap "microsoft/mssql-release"
 tap "petere/postgresql"
 tap "railwaycat/emacsmacport"
 tap "sanemat/font"
+brew "amazon-ecs-cli"
 brew "libyaml"
 brew "readline", link: true
 brew "xz"

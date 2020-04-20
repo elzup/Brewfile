@@ -28,6 +28,7 @@ create-react-app
 create-react-hook
 depcheck
 detect-port
+electron-packager
 electron-zip-packager
 elzup
 elzup-sandbox

@@ -33,6 +33,7 @@ electron-zip-packager
 elzup
 elzup-sandbox
 envinfo
+eslint
 eslint-plugin-import
 eslint-plugin-prettier
 expo-cli

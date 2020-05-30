@@ -231,6 +231,7 @@ mas "Audio Record - Audio Recorder1", id: 987725641
 mas "Bandwidth+", id: 490461369
 mas "Cyberduck", id: 409222199
 mas "Display Menu", id: 549083868
+mas "Dont Sleep", id: 466314666
 mas "Dropzone 4", id: 1485052491
 mas "Evernote", id: 406056744
 mas "GarageBand", id: 682658836

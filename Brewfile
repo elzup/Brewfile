@@ -29,7 +29,7 @@ brew "autoconf"
 brew "autojump"
 brew "automake"
 brew "awscli"
-brew "gettext", link: false
+brew "gettext"
 brew "axel"
 brew "bash"
 brew "bat"

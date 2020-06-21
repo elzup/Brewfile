@@ -131,7 +131,7 @@ brew "nmap"
 brew "node", link: false
 brew "numpy"
 brew "oath-toolkit"
-brew "opencv", link: false
+brew "opencv"
 brew "packer"
 brew "pacvim"
 brew "peco"

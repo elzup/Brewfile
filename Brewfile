@@ -55,6 +55,7 @@ brew "ctags"
 brew "curl"
 brew "libevent"
 brew "libidn"
+brew "deno"
 brew "direnv"
 brew "docker", link: false
 brew "e2fsprogs"

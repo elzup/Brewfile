@@ -32,7 +32,6 @@ electron-packager
 electron-zip-packager
 elzup
 elzup-sandbox
-envinfo
 eslint
 eslint-plugin-import
 eslint-plugin-prettier
@@ -109,7 +108,6 @@ plop
 png-to-ico
 poi
 pomodoron
-prettier
 prh
 prioritize-yarn
 public-ip-cli

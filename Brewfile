@@ -22,7 +22,6 @@ brew "amazon-ecs-cli"
 brew "libyaml"
 brew "readline", link: true
 brew "xz"
-brew "python", link: false
 brew "ansible"
 brew "arp-scan"
 brew "autoconf"
@@ -179,6 +178,7 @@ brew "zlib"
 brew "zplug", link: false
 brew "zsh"
 brew "cloudfoundry/tap/cf-cli"
+brew "fumiyas/echo-sd/echo-sd"
 brew "github/gh/gh"
 brew "heroku/brew/heroku"
 brew "jlhonora/lsusb/lsusb"

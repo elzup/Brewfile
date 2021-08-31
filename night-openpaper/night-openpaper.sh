@@ -1,0 +1,1 @@
+open "https://www.notion.so/anozon/Diary-ff9fd9158763432fa39509a8c20f4d63"

@@ -61,6 +61,7 @@ generator-code
 generator-es6-node
 generator-hubot
 generator-nm
+generator-node-red
 generator-node-typescript
 generator-node
 generator-react-native-ignite

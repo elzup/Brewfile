@@ -6,8 +6,10 @@
     <string>every-minutes-script</string>
     <key>ProgramArguments</key>
     <array>
-      <string>/Users/hiro/.ghq/github.com/elzup/shell-playground/lib/mensa-tokyo-watch.sh</string>
+      <string>/Users/hiro/.ghq/github.com/elzup/scheduled-scripts/run.sh</string>
     </array>
+    <key>WorkingDirectory</key>
+    <string>/Users/hiro/.ghq/github.com/elzup/scheduled-scripts</string>
     <key>UserName</key>
     <string>hiro</string>
     <key>StartInterval</key>

@@ -5,6 +5,7 @@ clasp
 plugin-php
 plugin-ruby
 cli
+node
 abbrev
 alfred-material-manager
 alfred-mdi
@@ -113,6 +114,7 @@ parcel-bundler
 pastel-app
 phantom
 phantomjs
+php-parser
 plop
 png-to-ico
 poi
@@ -127,9 +129,11 @@ pure
 rails-dashboard
 random-word-wikipedia
 react-devtools
+react-dom
 react-native-cli
 react-native-git-upgrade
 react-native-ignite
+react
 redux-cli
 renamer
 restart-touchbar
@@ -160,6 +164,7 @@ typescript
 typings
 update
 version-print
+webpack
 wscat
 y
 yarn-completions

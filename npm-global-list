@@ -166,6 +166,7 @@ update
 version-print
 webpack
 wscat
+xml2json
 y
 yarn-completions
 yo

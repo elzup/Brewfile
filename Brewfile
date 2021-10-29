@@ -281,4 +281,5 @@ mas "Sim Daltonism", id: 693112260
 mas "TEPRA SMA3", id: 704088911
 mas "The Unarchiver", id: 425424353
 mas "Tomato One", id: 907364780
+mas "TypingLand", id: 1568264476
 mas "Xcode", id: 497799835

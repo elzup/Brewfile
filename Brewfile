@@ -275,6 +275,7 @@ mas "Microsoft Remote Desktop", id: 1295203466
 mas "MindNode", id: 1289197285
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
+mas "Perculia", id: 1462633284
 mas "ScanSnap Cloud", id: 1035516352
 mas "Shazam", id: 897118787
 mas "Sim Daltonism", id: 693112260

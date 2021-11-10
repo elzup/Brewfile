@@ -165,6 +165,7 @@ typescript
 typings
 update
 version-print
+vsce
 webpack
 wscat
 xml2json

@@ -118,6 +118,7 @@ parcel-bundler
 pastel-app
 phantom
 phantomjs
+php-parser
 plop
 png-to-ico
 poi

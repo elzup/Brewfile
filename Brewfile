@@ -154,6 +154,7 @@ brew "nkf"
 brew "nmap"
 brew "node", link: false
 brew "numpy"
+brew "nyancat"
 brew "oath-toolkit"
 brew "opencv"
 brew "opencv@3"

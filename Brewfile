@@ -52,7 +52,7 @@ brew "gcc"
 brew "suite-sparse"
 brew "tbb"
 brew "ceres-solver"
-brew "chromedriver", restart_service: true
+brew "chromedriver"
 brew "cliclick"
 brew "cmake"
 brew "cocoapods"
@@ -78,7 +78,7 @@ brew "fd"
 brew "libtool"
 brew "guile"
 brew "libevent"
-brew "unbound", restart_service: true
+brew "unbound"
 brew "gnutls"
 brew "gobject-introspection"
 brew "harfbuzz"
@@ -144,12 +144,12 @@ brew "mercurial"
 brew "minicom"
 brew "minikube"
 brew "mono-libgdiplus"
-brew "mosquitto", restart_service: true
+brew "mosquitto"
 brew "protobuf"
-brew "mysql", restart_service: true
+brew "mysql"
 brew "n"
 brew "neovim"
-brew "nginx", restart_service: true
+brew "nginx"
 brew "nkf"
 brew "nmap"
 brew "node", link: false
@@ -162,15 +162,15 @@ brew "packer"
 brew "pacvim"
 brew "pandoc"
 brew "peco"
-brew "php", restart_service: true
-brew "php@7.4", restart_service: true
+brew "php"
+brew "php@7.4"
 brew "pipenv"
 brew "pngcheck"
 brew "pngquant"
 brew "portaudio"
 brew "postgresql", restart_service: true
-brew "postgresql@10", restart_service: true
-brew "postgresql@12", restart_service: true
+brew "postgresql@10"
+brew "postgresql@12"
 brew "pup"
 brew "pwgen"
 brew "pyenv"
@@ -179,11 +179,11 @@ brew "qt", link: false
 brew "ruby-build"
 brew "rbenv"
 brew "reattach-to-user-namespace"
-brew "redis", restart_service: true
+brew "redis"
 brew "rlwrap"
 brew "rmtrash"
 brew "rtv"
-brew "shadowsocks-libev", restart_service: true
+brew "shadowsocks-libev"
 brew "sl"
 brew "socat"
 brew "source-highlight"

@@ -64,6 +64,7 @@ generator-babel
 generator-botkit
 generator-code
 generator-es6-node
+generator-express-no-stress-typescript
 generator-hubot
 generator-nm
 generator-node-red

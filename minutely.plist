@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>every-minutes-script</string>
+    <string>minutely</string>
     <key>ProgramArguments</key>
     <array>
-      <string>/Users/hiro/.ghq/github.com/elzup/scheduled-scripts/run.sh</string>
+      <string>/Users/hiro/.ghq/github.com/elzup/minutely/run.sh</string>
     </array>
     <key>WorkingDirectory</key>
-    <string>/Users/hiro/.ghq/github.com/elzup/scheduled-scripts</string>
+    <string>/Users/hiro/.ghq/github.com/elzup/minutely</string>
     <key>UserName</key>
     <string>hiro</string>
     <key>StartInterval</key>

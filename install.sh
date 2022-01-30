@@ -19,6 +19,8 @@ setup(){
   reload "dump.brewfile.plist"
   cp -f "$Brewfile/setenv.plist" "$launchd/setenv.plist"
   reload "setenv.plist"
+  cp -f "$Brewfile/minutely.plist" "$launchd/minutely.plist"
+  reload "minutely.plist"
 }
 
 # MEMO:

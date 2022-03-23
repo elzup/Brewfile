@@ -139,7 +139,7 @@ brew "lua"
 brew "lv"
 brew "lynx"
 brew "ruby"
-brew "macvim"
+brew "macvim", link: false
 brew "mas"
 brew "mercurial"
 brew "minicom"
@@ -202,7 +202,7 @@ brew "tig"
 brew "tmux"
 brew "tofrodos"
 brew "tree"
-brew "vim", link: false
+brew "vim", args: ["HEAD"], link: false
 brew "w3m"
 brew "watch"
 brew "watchman"

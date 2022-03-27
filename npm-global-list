@@ -148,6 +148,7 @@ serverless
 socket.io-client
 source-map-explorer
 speed-test
+sqlite3
 superstatic
 sw-precache
 textlint-rule-no-todo

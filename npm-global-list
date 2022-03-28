@@ -7,8 +7,10 @@ plugin-ruby
 cli
 node
 abbrev
+alfred-eject
 alfred-material-manager
 alfred-mdi
+alfred-npms
 all-contributors-cli
 annict
 anosignal

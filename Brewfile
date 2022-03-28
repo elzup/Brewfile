@@ -17,6 +17,7 @@ tap "petere/postgresql"
 tap "railwaycat/emacsmacport"
 tap "sanemat/font"
 tap "stevenpack/tap"
+brew "act"
 brew "amazon-ecs-cli"
 brew "libyaml"
 brew "readline", link: true

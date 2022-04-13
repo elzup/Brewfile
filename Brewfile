@@ -204,6 +204,7 @@ brew "terraform"
 brew "tig"
 brew "tmux"
 brew "tofrodos"
+brew "tokei"
 brew "tree"
 brew "vim", args: ["HEAD"], link: false
 brew "w3m"

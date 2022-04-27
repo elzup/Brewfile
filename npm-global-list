@@ -2,6 +2,7 @@ preset-es2015
 generator-nm
 functions-emulator
 clasp
+mermaid-cli
 plugin-php
 plugin-ruby
 cli

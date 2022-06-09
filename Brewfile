@@ -55,7 +55,6 @@ brew "gcc"
 brew "suite-sparse"
 brew "tbb"
 brew "ceres-solver"
-brew "chromedriver"
 brew "cliclick"
 brew "cmake"
 brew "cocoapods"
@@ -119,7 +118,7 @@ brew "hashpump"
 brew "haskell-stack"
 brew "httpflow"
 brew "httpie"
-brew "ilmbase", link: true
+brew "ilmbase"
 brew "libheif"
 brew "imagemagick"
 brew "imagemagick@6"
@@ -272,6 +271,7 @@ cask "vagrant"
 cask "visual-studio-code"
 cask "webstorm"
 cask "xquartz"
+mas "Actions", id: 1586435171
 mas "Audio Record - Audio Recorder1", id: 987725641
 mas "Bandwidth+", id: 490461369
 mas "Cyberduck", id: 409222199

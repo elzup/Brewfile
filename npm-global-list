@@ -38,6 +38,7 @@ create-ink-app
 create-react-app
 create-react-hook
 depcheck
+dependency-cruiser
 detect-port
 do-not-disturb-cli
 electron-packager
@@ -90,7 +91,9 @@ ink-react-hooks
 iocat
 irasutoya
 is-github-down
+istanbul-badges-readme
 itypescript
+jest-coverage-badges
 jest
 learnyounode
 license-checker
@@ -152,9 +155,9 @@ serverless
 socket.io-client
 source-map-explorer
 speed-test
-sqlite3
 superstatic
 sw-precache
+swagger-spec-to-pdf
 textlint-rule-no-todo
 textlint-rule-preset-ja-technical-writing
 textlint-rule-preset-japanese

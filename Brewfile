@@ -276,6 +276,7 @@ mas "Audio Record - Audio Recorder1", id: 987725641
 mas "Bandwidth+", id: 490461369
 mas "Cyberduck", id: 409222199
 mas "Evernote", id: 406056744
+mas "Folder Peek", id: 1615988943
 mas "GarageBand", id: 682658836
 mas "GrandPerspective", id: 1111570163
 mas "iMovie", id: 408981434

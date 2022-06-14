@@ -1,5 +1,6 @@
 preset-es2015
 generator-nm
+kit
 functions-emulator
 clasp
 mermaid-cli

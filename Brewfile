@@ -275,6 +275,7 @@ cask "xquartz"
 mas "Actions", id: 1586435171
 mas "Audio Record - Audio Recorder1", id: 987725641
 mas "Bandwidth+", id: 490461369
+mas "BetterSnapTool", id: 417375580
 mas "Cyberduck", id: 409222199
 mas "Evernote", id: 406056744
 mas "Folder Peek", id: 1615988943

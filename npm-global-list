@@ -4,6 +4,7 @@ kit
 functions-emulator
 clasp
 mermaid-cli
+cli
 plugin-php
 plugin-ruby
 cli

@@ -24,7 +24,7 @@ brew "readline", link: true
 brew "xz"
 brew "python@3.10"
 brew "ansible"
-brew "jpeg"
+brew "jpeg", link: true
 brew "libpng"
 brew "libtiff"
 brew "arp-scan"
@@ -129,7 +129,7 @@ brew "imagemagick@6"
 brew "imagesnap"
 brew "iproute2mac"
 brew "jid"
-brew "jpeg-turbo"
+brew "jpeg-turbo", link: false
 brew "jpegoptim"
 brew "oniguruma"
 brew "jq"

@@ -22,7 +22,7 @@ brew "amazon-ecs-cli"
 brew "libyaml"
 brew "readline", link: true
 brew "xz"
-brew "python@3.10"
+brew "python@3.10", link: false
 brew "ansible"
 brew "jpeg", link: true
 brew "libpng"
@@ -123,7 +123,7 @@ brew "httpie"
 brew "ilmbase"
 brew "shared-mime-info"
 brew "libheif"
-brew "python@3.8"
+brew "python@3.8", link: false
 brew "imagemagick"
 brew "imagemagick@6"
 brew "imagesnap"

@@ -42,6 +42,7 @@ create-react-hook
 depcheck
 dependency-cruiser
 detect-port
+directory-serve
 do-not-disturb-cli
 electron-packager
 electron-zip-packager

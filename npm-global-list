@@ -116,6 +116,7 @@ netlify-cli
 network
 next
 ngrok
+node_modules
 node-gyp
 node-pre-gyp
 nodemon
@@ -129,6 +130,7 @@ npm-install-missing
 npm-license-crawler
 npm
 oniwa-in
+package.json
 parcel-bundler
 pastel-app
 phantom
@@ -192,6 +194,7 @@ wscat
 xml2json
 y
 yarn-completions
+yarn.lock
 yo
 zenn-cli
 zx

@@ -6,6 +6,8 @@ functions-emulator
 clasp
 mermaid-cli
 cli
+cli
+uglify-js
 plugin-php
 plugin-ruby
 cli

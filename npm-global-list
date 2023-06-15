@@ -123,6 +123,7 @@ ngrok
 node_modules
 node-gyp
 node-pre-gyp
+node-red
 nodemon
 notios
 now-serve

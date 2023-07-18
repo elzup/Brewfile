@@ -291,7 +291,6 @@ cask "skype"
 cask "slack"
 cask "steam"
 cask "vagrant"
-cask "visual-studio-code"
 cask "webstorm"
 cask "xquartz"
 mas "Actions", id: 1586435171

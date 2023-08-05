@@ -317,6 +317,7 @@ mas "Perculia", id: 1462633284
 mas "QR Capture", id: 1369524274
 mas "ScanSnap Cloud", id: 1035516352
 mas "Shazam", id: 897118787
+mas "Silicon Info", id: 1542271266
 mas "Sim Daltonism", id: 693112260
 mas "TEPRA SMA3", id: 704088911
 mas "The Unarchiver", id: 425424353
@@ -413,7 +414,6 @@ vscode "ms-toolsai.vscode-jupyter-slideshow"
 vscode "ms-vscode-remote.remote-containers"
 vscode "ms-vscode-remote.remote-ssh"
 vscode "ms-vscode-remote.remote-ssh-edit"
-vscode "ms-vscode.cpptools"
 vscode "ms-vscode.remote-explorer"
 vscode "ms-vscode.vscode-serial-monitor"
 vscode "ms-vsliveshare.vsliveshare"
@@ -462,7 +462,6 @@ vscode "tonybaloney.vscode-pets"
 vscode "unifiedjs.vscode-mdx"
 vscode "VisualStudioExptTeam.intellicode-api-usage-examples"
 vscode "VisualStudioExptTeam.vscodeintellicode"
-vscode "vsciot-vscode.vscode-arduino"
 vscode "vscjava.vscode-java-debug"
 vscode "vscjava.vscode-java-dependency"
 vscode "vscjava.vscode-java-pack"

@@ -296,7 +296,6 @@ cask "vlc"
 cask "webstorm"
 cask "xquartz"
 mas "Actions", id: 1586435171
-mas "au.id.haroldchu.mac.Bandwidth", id: 490461369
 mas "Audio Record - Audio Recorder1", id: 987725641
 mas "BetterSnapTool", id: 417375580
 mas "Cyberduck", id: 409222199
@@ -402,6 +401,7 @@ vscode "ms-dotnettools.vscode-dotnet-runtime"
 vscode "ms-mssql.data-workspace-vscode"
 vscode "ms-mssql.mssql"
 vscode "ms-mssql.sql-database-projects-vscode"
+vscode "ms-python.black-formatter"
 vscode "ms-python.flake8"
 vscode "ms-python.isort"
 vscode "ms-python.python"

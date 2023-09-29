@@ -297,6 +297,7 @@ mas "Actions", id: 1586435171
 mas "Audio Record - Audio Recorder1", id: 987725641
 mas "BetterSnapTool", id: 417375580
 mas "Cyberduck", id: 409222199
+mas "Dipper", id: 6450242673
 mas "Evernote", id: 406056744
 mas "Folder Peek", id: 1615988943
 mas "GarageBand", id: 682658836

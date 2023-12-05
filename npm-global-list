@@ -13,6 +13,7 @@ plugin-ruby
 cli
 node
 abbrev
+aicommits
 alfred-eject
 alfred-material-manager
 alfred-mdi

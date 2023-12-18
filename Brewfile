@@ -318,6 +318,7 @@ mas "ScanSnap Cloud", id: 1035516352
 mas "Shazam", id: 897118787
 mas "Silicon Info", id: 1542271266
 mas "Sim Daltonism", id: 693112260
+mas "Slack", id: 803453959
 mas "TEPRA SMA3", id: 704088911
 mas "The Unarchiver", id: 425424353
 mas "Tomato One", id: 907364780

@@ -322,7 +322,6 @@ mas "Slack", id: 803453959
 mas "TEPRA SMA3", id: 704088911
 mas "The Unarchiver", id: 425424353
 mas "Tomato One", id: 907364780
-mas "Xcode", id: 497799835
 vscode "aki77.rails-db-schema"
 vscode "alanz.vscode-hie-server"
 vscode "amlovey.shaderlabvscodefree"

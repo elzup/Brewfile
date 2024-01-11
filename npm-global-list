@@ -8,6 +8,7 @@ mermaid-cli
 cli
 cli
 uglify-js
+openapi-generator-cli
 plugin-php
 plugin-ruby
 cli

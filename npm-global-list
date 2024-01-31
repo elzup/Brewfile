@@ -71,6 +71,7 @@ flow-remove-types
 flow-to-typescript
 flow-typed
 flow
+flowise
 fusuma
 fx
 gatsby-cli

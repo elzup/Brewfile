@@ -101,6 +101,7 @@ hexo-cli
 hpm-cli
 http-server
 icon-gen
+ijavascript
 incstr
 ink-react-hooks
 iocat
@@ -194,6 +195,7 @@ tower-of-babel
 ts-babel-node
 ts-loader
 ts-node
+tslab
 tslint
 typescript
 typings

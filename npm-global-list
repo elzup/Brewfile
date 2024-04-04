@@ -13,6 +13,7 @@ openapi-generator-cli
 plugin-php
 plugin-ruby
 cli
+cli
 node
 abbrev
 aicommits

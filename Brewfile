@@ -257,7 +257,6 @@ brew "sanemat/font/ricty"
 brew "shivammathur/php/php@7.4", link: true
 brew "stevenpack/tap/asroute"
 cask "1password"
-cask "adoptopenjdk8"
 cask "alfred"
 cask "android-studio"
 cask "appcode"

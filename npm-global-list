@@ -1,4 +1,5 @@
 ni
+claude-code
 cli
 preset-es2015
 generator-nm
@@ -6,10 +7,12 @@ kit
 functions-emulator
 clasp
 mermaid-cli
+server-filesystem
 cli
 cli
 uglify-js
 openapi-generator-cli
+mcp
 plugin-php
 plugin-ruby
 cli
@@ -49,11 +52,13 @@ cost-of-modules
 create-ink-app
 create-react-app
 create-react-hook
+dcipher-cli
 depcheck
 dependency-cruiser
 detect-port
 directory-serve
 do-not-disturb-cli
+eas-cli
 electron-packager
 electron-zip-packager
 elzup-sandbox
@@ -62,7 +67,7 @@ envinfo
 eslint-plugin-import
 eslint-plugin-prettier
 eslint
-expo-cli
+expo
 express-generator
 faker
 firebase-tools
@@ -113,6 +118,7 @@ itypescript
 iwiaa
 jest-coverage-badges
 jest
+json-diff
 learnyounode
 license-checker
 live-server
@@ -168,6 +174,7 @@ react-dom
 react-native-cli
 react-native-git-upgrade
 react-native-ignite
+react-native
 react
 redoc-cli
 redux-cli
@@ -177,6 +184,7 @@ rnpm
 rx
 serve
 serverless
+shm-typed-array
 socket.io-client
 source-map-explorer
 speed-test
@@ -201,6 +209,8 @@ tslint
 typescript
 typings
 update
+uuid
+uuidv7
 version-print
 vsce
 webpack

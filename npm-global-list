@@ -133,7 +133,6 @@ netlify-cli
 network
 next
 ngrok
-node_modules
 node-gyp
 node-pre-gyp
 node-red

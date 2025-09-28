@@ -218,6 +218,7 @@ xml2json
 y
 yarn-completions
 yarn.lock
+yarn
 yo
 zenn-cli
 zx

@@ -302,7 +302,6 @@ mas "Tomato One", id: 907364780
 mas "Windows App", id: 1295203466
 mas "Xcode", id: 497799835
 vscode "aki77.rails-db-schema"
-vscode "alanz.vscode-hie-server"
 vscode "almightychaosdev.maficious-theme"
 vscode "amlovey.shaderlabvscodefree"
 vscode "amodio.amethyst-theme"

@@ -189,7 +189,7 @@ brew "oath-toolkit"
 brew "qt"
 brew "pyqt"
 brew "vtk"
-brew "opencv"
+brew "opencv", link: false
 brew "openjdk@17"
 brew "pacvim"
 brew "pandoc"

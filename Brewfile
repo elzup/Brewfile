@@ -303,6 +303,7 @@ mas "Windows App", id: 1295203466
 mas "Xcode", id: 497799835
 vscode "aki77.rails-db-schema"
 vscode "almightychaosdev.maficious-theme"
+vscode "amlovey.amlovey-omnishader-vsc"
 vscode "amlovey.shaderlabvscodefree"
 vscode "amodio.amethyst-theme"
 vscode "anozon.maai-cursor"

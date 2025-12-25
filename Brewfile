@@ -272,6 +272,7 @@ cask "mitmproxy"
 cask "netbird-ui"
 cask "ngrok"
 cask "pycharm"
+cask "racket"
 cask "vagrant"
 cask "xquartz"
 mas "Actions", id: 1586435171

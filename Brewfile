@@ -247,6 +247,7 @@ brew "watchman"
 brew "wdiff"
 brew "wget"
 brew "wimlib"
+brew "witr"
 brew "xdotool"
 brew "yt-dlp"
 brew "zplug"
@@ -306,6 +307,7 @@ mas "The Unarchiver", id: 425424353
 mas "Tomato One", id: 907364780
 mas "Windows App", id: 1295203466
 mas "Xcode", id: 497799835
+vscode "agsoft.claude-history-viewer"
 vscode "aki77.rails-db-schema"
 vscode "almightychaosdev.maficious-theme"
 vscode "amlovey.amlovey-omnishader-vsc"

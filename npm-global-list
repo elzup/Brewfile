@@ -19,6 +19,7 @@ cli
 cli
 node
 abbrev
+agent-browser
 aicommits
 alfred-eject
 alfred-material-manager

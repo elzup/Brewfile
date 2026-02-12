@@ -266,7 +266,6 @@ brew "fumiyas/echo-sd/echo-sd"
 brew "heroku/brew/heroku"
 brew "hudochenkov/sshpass/sshpass"
 brew "jlhonora/lsusb/lsusb"
-brew "netbirdio/tap/netbird"
 brew "shivammathur/php/php@7.4", link: true
 brew "stevenpack/tap/asroute"
 brew "ynqa/tap/jnv"

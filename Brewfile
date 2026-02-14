@@ -305,6 +305,7 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Perculia", id: 1462633284
 mas "QR Capture", id: 1369524274
+mas "RunCat", id: 1429033973
 mas "ScanSnap Cloud", id: 1035516352
 mas "Shazam", id: 897118787
 mas "Silicon Info", id: 1542271266

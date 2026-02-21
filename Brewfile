@@ -285,6 +285,7 @@ cask "pycharm"
 cask "racket"
 cask "vagrant"
 cask "xquartz"
+cask "zed"
 mas "Actions", id: 1586435171
 mas "Audio Record - Audio Recorder1", id: 987725641
 mas "BetterSnapTool", id: 417375580

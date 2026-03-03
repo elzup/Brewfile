@@ -286,38 +286,6 @@ cask "racket"
 cask "vagrant"
 cask "xquartz"
 cask "zed"
-mas "Actions", id: 1586435171
-mas "Audio Record - Audio Recorder1", id: 987725641
-mas "BetterSnapTool", id: 417375580
-mas "Cyberduck", id: 409222199
-mas "Developer", id: 640199958
-mas "Dipper", id: 6450242673
-mas "Evernote", id: 406056744
-mas "Folder Peek", id: 1615988943
-mas "GarageBand", id: 682658836
-mas "GrandPerspective", id: 1111570163
-mas "iMovie", id: 408981434
-mas "Keynote", id: 409183694
-mas "LadioCast", id: 411213048
-mas "LanScan", id: 472226235
-mas "LINE", id: 539883307
-mas "MindNode", id: 1289197285
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
-mas "Perculia", id: 1462633284
-mas "QR Capture", id: 1369524274
-mas "RunCat", id: 1429033973
-mas "ScanSnap Cloud", id: 1035516352
-mas "Shazam", id: 897118787
-mas "Silicon Info", id: 1542271266
-mas "Sim Daltonism", id: 693112260
-mas "Slack", id: 803453959
-mas "SnailSVN Lite", id: 1063090543
-mas "TEPRA SMA3", id: 704088911
-mas "The Unarchiver", id: 425424353
-mas "Tomato One", id: 907364780
-mas "Windows App", id: 1295203466
-mas "Xcode", id: 497799835
 vscode "agsoft.claude-history-viewer"
 vscode "aki77.rails-db-schema"
 vscode "almightychaosdev.maficious-theme"

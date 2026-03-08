@@ -1,6 +1,5 @@
 ni
 cli
-preset-es2015
 generator-nm
 kit
 functions-emulator
@@ -27,7 +26,6 @@ alfred-npms
 all-contributors-cli
 annict
 anode-repl
-anoiz
 anosignal
 asar
 atcoder-cli
@@ -64,9 +62,6 @@ electron-zip-packager
 elzup-sandbox
 elzup
 envinfo
-eslint-plugin-import
-eslint-plugin-prettier
-eslint
 expo
 express-generator
 faker
@@ -203,10 +198,7 @@ toshino
 tower-of-babel
 ts-babel-node
 ts-loader
-ts-node
 tslab
-tslint
-typescript
 typings
 update
 uuid

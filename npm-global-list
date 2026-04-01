@@ -201,6 +201,7 @@ tower-of-babel
 ts-babel-node
 ts-loader
 tslab
+tsx
 typings
 update
 uuid

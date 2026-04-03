@@ -206,6 +206,7 @@ typings
 update
 uuid
 uuidv7
+vercel
 version-print
 vsce
 webpack

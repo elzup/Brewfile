@@ -324,6 +324,8 @@ brew "lynx"
 brew "macvim", link: false
 # Mac App Store command-line interface
 brew "mas"
+# Java-based project management
+brew "maven"
 # Scalable distributed version control system
 brew "mercurial"
 # Menu-driven communications program

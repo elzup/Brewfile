@@ -523,6 +523,8 @@ cask "netbirdio/tap/netbird-ui"
 cask "ngrok"
 # AI coding agent desktop client
 cask "opencode-desktop"
+# Replacement for Docker Desktop
+cask "orbstack"
 # IDE for professional Python development
 cask "pycharm"
 # Modern programming language in the Lisp/Scheme family

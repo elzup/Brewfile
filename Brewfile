@@ -178,6 +178,8 @@ brew "exiftool"
 brew "expect"
 # Text mode browser and Gemini, NNTP, FTP, Gopher, Finger, and BitTorrent client
 brew "felinks"
+# Play, record, convert, and stream select audio and video codecs
+brew "ffmpeg"
 # Library to load and enumerate PKCS#11 modules
 brew "p11-kit"
 # Validating, recursive, caching DNS resolver
@@ -194,8 +196,6 @@ brew "srt"
 brew "tesseract"
 # High-performance, asynchronous messaging library
 brew "zeromq"
-# Play, record, convert, and stream select audio and video codecs
-brew "ffmpeg"
 # Play, record, convert, and stream audio and video
 brew "ffmpeg@4"
 # Banner-like program prints strings as ASCII art
@@ -228,6 +228,8 @@ brew "git-filter-repo"
 brew "git-lfs"
 # Open-source GitLab command-line tool
 brew "glab"
+# Render markdown on the CLI
+brew "glow"
 # OpenGL and OpenGL ES reference compiler for shading languages
 brew "glslang"
 # GNU implementation of the famous stream editor
@@ -432,6 +434,8 @@ brew "rmtrash"
 brew "rtk"
 # Substitute for classic 'make' tool with autoconf/automake functionality
 brew "scons"
+# Display and control your Android device
+brew "scrcpy"
 # Libev port of shadowsocks
 brew "shadowsocks-libev"
 # Tool to create Python bindings for C and C++ libraries

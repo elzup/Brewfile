@@ -517,6 +517,8 @@ cask "gcloud-cli"
 cask "ghostty"
 # Tiling window manager with tree layouts
 cask "glide"
+# 2D and 3D game engine
+cask "godot"
 # Java IDE by JetBrains
 cask "intellij-idea"
 # Intercept, modify, replay, save HTTP/S traffic

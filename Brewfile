@@ -376,6 +376,8 @@ brew "vtk"
 brew "opencv", link: false
 # Development kit for the Java programming language
 brew "openjdk@17"
+# Development kit for the Java programming language
+brew "openjdk@21"
 # Learn vim commands via a game
 brew "pacvim"
 # Swiss-army knife of markup format conversion

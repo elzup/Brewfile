@@ -206,8 +206,6 @@ brew "flow"
 brew "fontforge"
 # Toolkit for image loading and pixel buffer manipulation
 brew "gdk-pixbuf"
-# Interact with Google Gemini AI models from the command-line
-brew "gemini-cli"
 # GitHub command-line tool
 brew "gh"
 # International domain name library

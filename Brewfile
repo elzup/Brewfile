@@ -108,6 +108,8 @@ brew "cliclick"
 brew "cling"
 # Utility for connecting securely to your Cloud SQL instances
 brew "cloud-sql-proxy"
+# Cloudflare Tunnel client (formerly Argo Tunnel)
+brew "cloudflared"
 # Cross-platform make
 brew "cmake"
 # Dependency manager for Cocoa projects

@@ -470,6 +470,8 @@ brew "terminal-notifier"
 brew "terraform"
 # Text interface for Git repositories
 brew "tig"
+# Terminal multiplexer
+brew "tmux"
 # Converts DOS <-> UNIX text files, alias tofromdos
 brew "tofrodos"
 # Display directories as trees (with optional color/HTML output)

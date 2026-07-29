@@ -40,6 +40,8 @@ brew "ansible"
 brew "libpng"
 # TIFF library and utilities
 brew "libtiff"
+# Image format providing lossless and lossy compression for web images
+brew "webp"
 # New file format for still image compression
 brew "jpeg-xl"
 # Codec library for encoding and decoding AV1 video streams
@@ -52,6 +54,8 @@ brew "arp-scan"
 brew "asciinema"
 # GNU internationalization (i18n) and localization (l10n) library
 brew "gettext"
+# JSON parser for C
+brew "json-c"
 # Core application library for C
 brew "glib"
 # Automatic configure script builder
@@ -74,8 +78,6 @@ brew "cairo"
 brew "harfbuzz"
 # Remove large files or passwords from Git history like git-filter-branch
 brew "bfg"
-# JSON parser for C
-brew "json-c"
 # Implementation of the DNS protocols
 brew "bind"
 # GNU binary tools for native development
@@ -122,8 +124,6 @@ brew "libssh2"
 brew "libtool"
 # Libraries to talk to Microsoft SQL Server and Sybase databases
 brew "freetds"
-# Image format providing lossless and lossy compression for web images
-brew "webp"
 # Graphics library to dynamically manipulate images
 brew "gd"
 # Regular expressions library

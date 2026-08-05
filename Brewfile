@@ -344,6 +344,10 @@ brew "mise"
 brew "mono-libgdiplus"
 # Message broker implementing the MQTT protocol
 brew "mosquitto"
+# Feature-rich command-line audio/video downloader
+brew "yt-dlp"
+# Media player based on MPlayer and mplayer2
+brew "mpv"
 # QUIC transport protocol implementation
 brew "mvfst"
 # Protocol buffers (Google's data interchange format)
@@ -496,8 +500,6 @@ brew "witr"
 brew "xcodegen"
 # Fake keyboard/mouse input and window management for X
 brew "xdotool"
-# Feature-rich command-line audio/video downloader
-brew "yt-dlp"
 # Shell extension to navigate your filesystem faster
 brew "zoxide"
 # Next-generation plugin manager for zsh

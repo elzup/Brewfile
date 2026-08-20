@@ -68,6 +68,12 @@ brew "automake"
 brew "awscli"
 # Light UNIX download accelerator
 brew "axel"
+# C library implementing the SSH2 protocol
+brew "libssh2"
+# Regular expressions library
+brew "oniguruma"
+# Clone of cat(1) with syntax highlighting and Git integration
+brew "bat"
 # High performance key/value database
 brew "berkeley-db", link: true
 # Low-level library for pixel manipulation
@@ -118,16 +124,12 @@ brew "cmake"
 brew "cocoapods"
 # CLI tool to convert your codebase into a single LLM prompt
 brew "code2prompt"
-# C library implementing the SSH2 protocol
-brew "libssh2"
 # Generic library support script
 brew "libtool"
 # Libraries to talk to Microsoft SQL Server and Sybase databases
 brew "freetds"
 # Graphics library to dynamically manipulate images
 brew "gd"
-# Regular expressions library
-brew "oniguruma"
 # General-purpose scripting language
 brew "php", link: false
 # Dependency Manager for PHP

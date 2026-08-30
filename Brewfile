@@ -48,6 +48,8 @@ brew "jpeg-xl"
 brew "aom"
 # Companion library to apr, the Apache Portable Runtime library
 brew "apr-util"
+# Arduino command-line interface
+brew "arduino-cli"
 # ARP scanning and fingerprinting tool
 brew "arp-scan"
 # Record and share terminal sessions
@@ -502,6 +504,8 @@ brew "witr"
 brew "xcodegen"
 # Fake keyboard/mouse input and window management for X
 brew "xdotool"
+# Blazing fast terminal file manager written in Rust, based on async I/O
+brew "yazi"
 # Shell extension to navigate your filesystem faster
 brew "zoxide"
 # Next-generation plugin manager for zsh

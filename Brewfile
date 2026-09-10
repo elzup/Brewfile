@@ -555,6 +555,8 @@ cask "orbstack"
 cask "pycharm"
 # Modern programming language in the Lisp/Scheme family
 cask "racket"
+# Digital design and prototyping platform
+cask "sketch"
 # Development environment
 cask "vagrant"
 # Open-source version of the X.Org X Window System

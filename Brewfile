@@ -300,6 +300,8 @@ brew "jenv"
 brew "jid"
 # Git-compatible distributed version control system
 brew "jj"
+# Enhanced version of john, a UNIX password cracker
+brew "john-jumbo"
 # Image manipulation library
 brew "jpeg"
 # Utility to optimize JPEG files

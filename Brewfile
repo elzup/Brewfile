@@ -234,6 +234,8 @@ brew "git-extras"
 brew "git-filter-repo"
 # Git extension for versioning large files
 brew "git-lfs"
+# Official GitLab CI runner
+brew "gitlab-runner"
 # Open-source GitLab command-line tool
 brew "glab"
 # Render markdown on the CLI

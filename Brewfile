@@ -34,22 +34,18 @@ brew "libyaml"
 brew "readline", link: true
 # General-purpose data compression with high compression ratio
 brew "xz"
+# Display directories as trees (with optional color/HTML output)
+brew "tree"
 # Automate deployment, configuration, and upgrading
 brew "ansible"
-# Library for manipulating PNG images
-brew "libpng"
-# TIFF library and utilities
-brew "libtiff"
-# Image format providing lossless and lossy compression for web images
-brew "webp"
-# New file format for still image compression
-brew "jpeg-xl"
 # Codec library for encoding and decoding AV1 video streams
 brew "aom"
 # Companion library to apr, the Apache Portable Runtime library
 brew "apr-util"
 # Arduino command-line interface
 brew "arduino-cli"
+# Library for manipulating PNG images
+brew "libpng"
 # ARP scanning and fingerprinting tool
 brew "arp-scan"
 # Record and share terminal sessions
@@ -84,6 +80,10 @@ brew "pixman"
 brew "cairo"
 # OpenType text shaping engine
 brew "harfbuzz"
+# TIFF library and utilities
+brew "libtiff"
+# Image format providing lossless and lossy compression for web images
+brew "webp"
 # Remove large files or passwords from Git history like git-filter-branch
 brew "bfg"
 # Implementation of the DNS protocols
@@ -130,6 +130,8 @@ brew "code2prompt"
 brew "libtool"
 # Libraries to talk to Microsoft SQL Server and Sybase databases
 brew "freetds"
+# New file format for still image compression
+brew "jpeg-xl"
 # Graphics library to dynamically manipulate images
 brew "gd"
 # General-purpose scripting language
@@ -190,8 +192,6 @@ brew "felinks"
 brew "ffmpeg"
 # Library to load and enumerate PKCS#11 modules
 brew "p11-kit"
-# Validating, recursive, caching DNS resolver
-brew "unbound"
 # GNU Transport Layer Security (TLS) Library
 brew "gnutls"
 # Subtitle renderer for the ASS/SSA subtitle format
@@ -238,6 +238,8 @@ brew "git-lfs"
 brew "gitlab-runner"
 # Open-source GitLab command-line tool
 brew "glab"
+# Validating, recursive, caching DNS resolver
+brew "unbound"
 # Render markdown on the CLI
 brew "glow"
 # OpenGL and OpenGL ES reference compiler for shading languages
@@ -486,8 +488,6 @@ brew "tig"
 brew "tmux"
 # Converts DOS <-> UNIX text files, alias tofromdos
 brew "tofrodos"
-# Display directories as trees (with optional color/HTML output)
-brew "tree"
 # Vi 'workalike' with many additional features
 brew "vim", args: ["HEAD"], link: false
 # Pager/text based browser

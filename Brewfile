@@ -96,8 +96,6 @@ brew "binwalk"
 brew "boost"
 # Freely available high-quality data compressor
 brew "bzip2"
-# Glorious Glasgow Haskell Compilation System
-brew "ghc"
 # Command-line interface for Cabal and Hackage
 brew "cabal-install"
 # Powerful, enterprise-ready, open source web server with automatic HTTPS
@@ -157,7 +155,7 @@ brew "direnv"
 # Lightweight DNS forwarder and DHCP server
 brew "dnsmasq"
 # Pack, ship and run any application as a lightweight container
-brew "docker", link: false
+brew "docker"
 # Utilities for the ext2, ext3, and ext4 file systems
 brew "e2fsprogs"
 # Asynchronous event library
@@ -186,14 +184,14 @@ brew "exiftool"
 brew "expect"
 # Modern, maintained replacement for ls
 brew "eza"
-# Text mode browser and Gemini, NNTP, FTP, Gopher, Finger, and BitTorrent client
-brew "felinks"
-# Play, record, convert, and stream select audio and video codecs
-brew "ffmpeg"
 # Library to load and enumerate PKCS#11 modules
 brew "p11-kit"
 # GNU Transport Layer Security (TLS) Library
 brew "gnutls"
+# Text mode browser and Gemini, NNTP, FTP, Gopher, Finger, and BitTorrent client
+brew "felinks"
+# Play, record, convert, and stream select audio and video codecs
+brew "ffmpeg"
 # Subtitle renderer for the ASS/SSA subtitle format
 brew "libass"
 # Framework for layout and rendering of i18n text
@@ -218,6 +216,8 @@ brew "fzf"
 brew "gdk-pixbuf"
 # GitHub command-line tool
 brew "gh"
+# Glorious Glasgow Haskell Compilation System
+brew "ghc"
 # International domain name library
 brew "libidn"
 # Interpreter for PostScript and PDF
@@ -238,8 +238,6 @@ brew "git-lfs"
 brew "gitlab-runner"
 # Open-source GitLab command-line tool
 brew "glab"
-# Validating, recursive, caching DNS resolver
-brew "unbound"
 # Render markdown on the CLI
 brew "glow"
 # OpenGL and OpenGL ES reference compiler for shading languages
@@ -280,8 +278,6 @@ brew "httpflow"
 brew "httpie"
 # Spell checker and morphological analyzer
 brew "hunspell"
-# Database of common MIME types
-brew "shared-mime-info"
 # ISO/IEC 23008-12:2017 HEIF file format decoder and encoder
 brew "libheif"
 # Tools and libraries to manipulate images in select formats
@@ -337,7 +333,7 @@ brew "lv"
 # Text-based web browser
 brew "lynx"
 # GUI for vim, made for macOS
-brew "macvim", link: false
+brew "macvim"
 # Mac App Store command-line interface
 brew "mas"
 # Java-based project management
@@ -388,6 +384,8 @@ brew "oath-toolkit"
 brew "qt"
 # Python bindings for v6 of Qt
 brew "pyqt"
+# Validating, recursive, caching DNS resolver
+brew "unbound"
 # Toolkit for 3D computer graphics, image processing, and visualization
 brew "vtk"
 # Open source computer vision library
@@ -458,6 +456,8 @@ brew "scons"
 brew "scrcpy"
 # Libev port of shadowsocks
 brew "shadowsocks-libev"
+# Database of common MIME types
+brew "shared-mime-info"
 # Tool to create Python bindings for C and C++ libraries
 brew "sip"
 # Prints a steam locomotive if you type sl instead of ls

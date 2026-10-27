@@ -488,6 +488,8 @@ brew "tig"
 brew "tmux"
 # Converts DOS <-> UNIX text files, alias tofromdos
 brew "tofrodos"
+# Anonymizing overlay network for TCP
+brew "tor", restart_service: :changed
 # Vi 'workalike' with many additional features
 brew "vim", args: ["HEAD"], link: false
 # Pager/text based browser

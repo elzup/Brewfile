@@ -543,7 +543,6 @@ cask "godot"
 cask "intellij-idea"
 # Intercept, modify, replay, save HTTP/S traffic
 cask "mitmproxy"
-# Netbird UI Client
 cask "netbirdio/tap/netbird-ui"
 # Reverse proxy, secure introspectable tunnels to localhost
 cask "ngrok"
@@ -642,6 +641,7 @@ vscode "dtoplak.vscode-glsllint"
 vscode "dustypomerleau.rust-syntax"
 vscode "eamodio.gitlens"
 vscode "editorconfig.editorconfig"
+vscode "elzup.blueprint-theme"
 vscode "emeraldwalk.runonsave"
 vscode "esafirm.kotlin-formatter"
 vscode "esbenp.prettier-vscode"

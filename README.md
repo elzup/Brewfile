@@ -11,11 +11,8 @@ $ curl -sL https://raw.githubusercontent.com/elzup/Brewfile/master/install.sh | 
 ## Restore
 
 ```sh
-# Brewfile
+# Homebrew と npm のグローバルパッケージ (npm "..." 行) をまとめて復元
 brew bundle
-
-# npm global
-xargs npm install --global < ./npm-global-list
 ```
 
 ## Backup Schedule

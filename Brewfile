@@ -272,6 +272,8 @@ brew "guetzli"
 brew "guile"
 # Cross-platform program for developing Haskell projects
 brew "haskell-stack"
+# Agent multiplexer that lives in your terminal
+brew "herdr"
 # Packet capture and analysis utility similar to tcpdump for HTTP
 brew "httpflow"
 # User-friendly cURL replacement (command-line HTTP client)

@@ -575,16 +575,16 @@ mas "Folder Peek", id: 1615988943
 mas "GarageBand", id: 682658836
 mas "GrandPerspective", id: 1111570163
 mas "iMovie", id: 408981434
-mas "Keynote", id: 409183694
 mas "Keynote", id: 361285480
+mas "Keynote", id: 409183694
 mas "LadioCast", id: 411213048
 mas "LanScan", id: 472226235
 mas "LINE", id: 539883307
 mas "Lunacy", id: 1582493835
 mas "MindNode Classic", id: 1289197285
 mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
 mas "Pages", id: 361309726
+mas "Pages", id: 409201541
 mas "Perculia", id: 1462633284
 mas "QR Capture", id: 1369524274
 mas "RunCat", id: 1429033973

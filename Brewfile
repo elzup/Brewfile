@@ -583,8 +583,8 @@ mas "LINE", id: 539883307
 mas "Lunacy", id: 1582493835
 mas "MindNode Classic", id: 1289197285
 mas "Numbers", id: 409203825
-mas "Pages", id: 361309726
 mas "Pages", id: 409201541
+mas "Pages", id: 361309726
 mas "Perculia", id: 1462633284
 mas "QR Capture", id: 1369524274
 mas "RunCat", id: 1429033973
